@@ -1,0 +1,214 @@
+{
+  "name": "Sakura Rose V2",
+  "description": "A much pinker dark rose theme with vivid dusty-pink surfaces and pastel rose accents.",
+  "authors": [
+    {
+      "name": "Custom theme"
+    }
+  ],
+  "semanticColors": {
+    "BACKGROUND_PRIMARY": [
+      "#28151F"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#351B2A"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#402033"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#21121B"
+    ],
+    "BACKGROUND_ACCENT": [
+      "#E58AB4"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "#E58AB426"
+    ],
+    "BACKGROUND_MODIFIER_HOVER": [
+      "#E58AB41F"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "#E58AB445"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "#E58AB438"
+    ],
+    "BACKGROUND_MENTIONED": [
+      "#E58AB42B"
+    ],
+    "BACKGROUND_MENTIONED_HOVER": [
+      "#F0A8C94A"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#E8B7CE"
+    ],
+    "CHANNEL_ICON": [
+      "#E58AB4"
+    ],
+    "HEADER_PRIMARY": [
+      "#FFE5F0"
+    ],
+    "HEADER_SECONDARY": [
+      "#E6B9CD"
+    ],
+    "TEXT_PRIMARY": [
+      "#FFE5F0"
+    ],
+    "TEXT_NORMAL": [
+      "#F5D5E3"
+    ],
+    "TEXT_SECONDARY": [
+      "#E2B4CA"
+    ],
+    "TEXT_MUTED": [
+      "#BD829F"
+    ],
+    "TEXT_LINK": [
+      "#FF9FCB"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#E58AB4"
+    ],
+    "INTERACTIVE_HOVER": [
+      "#F3A4C8"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#FFC0DA"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#94677D"
+    ],
+    "BG_BRAND": [
+      "#D96D9F"
+    ],
+    "BG_BASE_PRIMARY": [
+      "#28151F"
+    ],
+    "BG_BASE_SECONDARY": [
+      "#351B2A"
+    ],
+    "BG_BASE_TERTIARY": [
+      "#21121B"
+    ],
+    "BG_SURFACE_RAISED": [
+      "#48243A"
+    ],
+    "PANEL_BG": [
+      "#28151F"
+    ],
+    "CHAT_BACKGROUND": [
+      "#28151F"
+    ],
+    "INPUT_BACKGROUND": [
+      "#21121B"
+    ],
+    "CARD_PRIMARY_BG": [
+      "#351B2A"
+    ],
+    "CARD_SECONDARY_BG": [
+      "#2E1925"
+    ],
+    "EMBED_BACKGROUND": [
+      "#48243A"
+    ],
+    "EMBED_BACKGROUND_ALTERNATE": [
+      "#351B2A"
+    ],
+    "REDESIGN_BUTTON_PRIMARY_PRESSED_BACKGROUND": [
+      "#B94F83"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+      "#542A43"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_BORDER": [
+      "#9B4F76"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_TEXT": [
+      "#FFE5F0"
+    ],
+    "REDESIGN_BUTTON_TERTIARY_BACKGROUND": [
+      "#351B2A"
+    ],
+    "REDESIGN_BUTTON_TERTIARY_TEXT": [
+      "#F3A4C8"
+    ],
+    "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
+      "#F3A4C8"
+    ],
+    "REDESIGN_CHANNEL_NAME_TEXT": [
+      "#FFE5F0"
+    ],
+    "REDESIGN_CHAT_INPUT_BACKGROUND": [
+      "#351B2A"
+    ],
+    "THREAD_CHANNEL_SPINE": [
+      "#D96D9F"
+    ],
+    "SPOILER_HIDDEN_BACKGROUND": [
+      "#542A43"
+    ],
+    "SPOILER_REVEALED_BACKGROUND": [
+      "#542A4388"
+    ],
+    "PREMIUM_NITRO_PINK_TEXT": [
+      "#FF9FCB"
+    ],
+    "ANDROID_NAVIGATION_SCRIM_BACKGROUND": [
+      "#1A0D15"
+    ],
+    "ANDROID_RIPPLE": [
+      "#F3A4C855"
+    ]
+  },
+  "rawColors": {
+    "BRAND_260": "#FFC0DA",
+    "BRAND_300": "#F3A4C8",
+    "BRAND_360": "#E58AB4",
+    "BRAND_500": "#D96D9F",
+    "BRAND_560": "#B94F83",
+    "BRAND_630": "#542A43",
+    "BRAND_730": "#351B2A",
+    "BLUE_345": "#E58AB4",
+    "BLUE_500": "#D96D9F",
+    "GREEN_430": "#A8C99B",
+    "RED_400": "#F08BA8",
+    "RED_430": "#E57498",
+    "RED_460": "#C95C83",
+    "PRIMARY_100": "#FFE5F0",
+    "PRIMARY_200": "#F5D5E3",
+    "PRIMARY_300": "#E8B7CE",
+    "PRIMARY_360": "#E2B4CA",
+    "PRIMARY_400": "#BD829F",
+    "PRIMARY_460": "#94677D",
+    "PRIMARY_500": "#9B4F76",
+    "PRIMARY_600": "#542A43",
+    "PRIMARY_630": "#48243A",
+    "PRIMARY_660": "#402033",
+    "PRIMARY_700": "#351B2A",
+    "PRIMARY_730": "#2E1925",
+    "PRIMARY_800": "#21121B",
+    "PLUM_10": "#FFE5F0",
+    "PLUM_11": "#F5D5E3",
+    "PLUM_13": "#E8B7CE",
+    "PLUM_14": "#BD829F",
+    "PLUM_15": "#9B4F76",
+    "PLUM_16": "#542A43",
+    "PLUM_17": "#48243A",
+    "PLUM_18": "#402033",
+    "PLUM_19": "#351B2A",
+    "PLUM_20": "#2E1925",
+    "PLUM_21": "#28151F",
+    "PLUM_22": "#21121B",
+    "GUILD_BOOSTING_PINK": "#FF9FCB",
+    "CHAT_MENTIONS_BACKGROUND_DARK": "#E58AB42B",
+    "CHAT_MENTIONS_BACKGROUND_LIGHT": "#E58AB42B",
+    "CHAT_MENTIONS_FOREGROUND_DARK": "#FFC0DA",
+    "CHAT_MENTIONS_FOREGROUND_LIGHT": "#FFC0DA"
+  },
+  "spec": 2,
+  "plus": {
+    "version": 0,
+    "mentionLineColor": "#FF9FCB"
+  }
+}
